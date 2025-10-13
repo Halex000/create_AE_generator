@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=down":  { "model": "create_ae_generator:block/kinetic_acceptor", "x": 90 },
+    "facing=up":    { "model": "create_ae_generator:block/kinetic_acceptor", "x": 270 },
+    "facing=north": { "model": "create_ae_generator:block/kinetic_acceptor" },
+    "facing=south": { "model": "create_ae_generator:block/kinetic_acceptor", "y": 180 },
+    "facing=west":  { "model": "create_ae_generator:block/kinetic_acceptor", "y": 270 },
+    "facing=east":  { "model": "create_ae_generator:block/kinetic_acceptor", "y": 90 }
+  }
+}
+

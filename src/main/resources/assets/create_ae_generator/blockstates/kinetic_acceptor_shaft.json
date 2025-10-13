@@ -1,0 +1,21 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "create_ae_generator:block/kinetic_acceptor/kinetic_acceptor",
+    "main": "create_ae_generator:block/kinetic_acceptor/kinetic_acceptor"
+  },
+  "elements": [
+    {
+      "from": [1, 0, 1],
+      "to":   [9, 16, 9],
+      "faces": {
+        "north": { "texture": "#main" },
+        "south": { "texture": "#main" },
+        "east":  { "texture": "#main" },
+        "west":  { "texture": "#main" },
+        "up":    { "texture": "#main" },
+        "down":  { "texture": "#main" }
+      }
+    }
+  ]
+}
