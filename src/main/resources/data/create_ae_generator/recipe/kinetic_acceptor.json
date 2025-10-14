@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "SCS",
+    " R "
+  ],
+  "key": {
+    "#": {
+      "item": "create_ae_generator:stator"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "C": {
+      "item": "ae2:energy_acceptor"
+    },
+    "R": {
+      "item": "ae2:fluix_crystal"
+    }
+  },
+  "result": {
+    "id": "create_ae_generator:kinetic_acceptor",
+    "count": 1
+  }
+}

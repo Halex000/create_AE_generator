@@ -2,6 +2,7 @@ package com.halex.create_ae_generator;
 
 
 import com.halex.create_ae_generator.index.BlockRegistry;
+import com.halex.create_ae_generator.index.ItemRegistry;
 import net.minecraft.core.Holder;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -29,5 +30,7 @@ public class CreateAEGeneratorTabs {
 
     private static void buildBaseContents(CreativeModeTab.ItemDisplayParameters parameters, CreativeModeTab.Output output) {
         output.accept(BlockRegistry.KINETIC_ACCEPTOR.get());
+        output.accept(ItemRegistry.COPPER_COIL.get());
+        output.accept(ItemRegistry.STATOR.get());
     }
 }
