@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE generátor",
+  "block.create_ae_generator.kinetic_acceptor": "Kinetikus vevő",
+  "create_ae_generator.configuration.title": "Create: AE generátor beállítások",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Kinetikus vevő beállítások",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Kinetikus vevő beállítások",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Generátor statisztikák:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Energia termelés:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Kinetikus terhelés hatása:",
+  "item.create_ae_generator.copper_coil": "Rézhuzal tekercs",
+  "item.create_ae_generator.stator": "Sztátor"
+}

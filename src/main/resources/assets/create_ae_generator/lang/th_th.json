@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: เครื่องกำเนิด AE",
+  "block.create_ae_generator.kinetic_acceptor": "ตัวรับพลังงานจลน์",
+  "create_ae_generator.configuration.title": "การตั้งค่า Create: เครื่องกำเนิด AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "การตั้งค่าตัวรับพลังงานจลน์",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "การตั้งค่าตัวรับพลังงานจลน์",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "สถิติของเครื่องกำเนิด:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "การผลิตพลังงาน:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "ผลกระทบจากความเครียดจลน์:",
+  "item.create_ae_generator.copper_coil": "ขดลวดทองแดง",
+  "item.create_ae_generator.stator": "สเตเตอร์"
+}

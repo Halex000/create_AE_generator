@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create：AE ジェネレーター",
+  "block.create_ae_generator.kinetic_acceptor": "キネティックアセプター",
+  "create_ae_generator.configuration.title": "Create：AE ジェネレーター設定",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "キネティックアセプター設定",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "キネティックアセプター設定",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "発電機の統計:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "エネルギー生成:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "キネティックストレスの影響:",
+  "item.create_ae_generator.copper_coil": "銅コイル",
+  "item.create_ae_generator.stator": "ステーター"
+}

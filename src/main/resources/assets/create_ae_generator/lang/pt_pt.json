@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: Gerador AE",
+  "block.create_ae_generator.kinetic_acceptor": "Receptor Cinético",
+  "create_ae_generator.configuration.title": "Configurações do Create: Gerador AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Configurações do Receptor Cinético",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Configurações do Receptor Cinético",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Estatísticas do Gerador:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Produção de Energia:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Impacto do Stress Cinético:",
+  "item.create_ae_generator.copper_coil": "Bobina de Cobre",
+  "item.create_ae_generator.stator": "Estator"
+}

@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: Jeneta ya AE",
+  "block.create_ae_generator.kinetic_acceptor": "Mpokeaji wa Kinetic",
+  "create_ae_generator.configuration.title": "Mipangilio ya Create: Jeneta ya AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Mipangilio ya Mpokeaji wa Kinetic",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Mipangilio ya Mpokeaji wa Kinetic",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Takwimu za Jeneta:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Uzalishaji wa Nguvu:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Mwelekeo wa Msukumo wa Kinetic:",
+  "item.create_ae_generator.copper_coil": "Kondakta wa Shaba",
+  "item.create_ae_generator.stator": "Steta"
+}

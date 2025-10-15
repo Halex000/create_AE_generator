@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: Генератор AE",
+  "block.create_ae_generator.kinetic_acceptor": "Кинетический приёмник",
+  "create_ae_generator.configuration.title": "Настройки Create: Генератор AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Настройки кинетического приёмника",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Настройки кинетического приёмника",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Статистика генератора:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Производство энергии:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Влияние кинетического напряжения:",
+  "item.create_ae_generator.copper_coil": "Медная катушка",
+  "item.create_ae_generator.stator": "Статор"
+}

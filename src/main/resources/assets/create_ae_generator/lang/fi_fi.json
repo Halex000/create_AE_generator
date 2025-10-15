@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE-generaattori",
+  "block.create_ae_generator.kinetic_acceptor": "Kineettinen Vastaanotin",
+  "create_ae_generator.configuration.title": "Asetukset Create: AE-generaattori",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Kineettisen vastaanottimen asetukset",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Kineettisen vastaanottimen asetukset",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Generaattorin tilastot:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Energiantuotanto:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Kineettisen rasituksen vaikutus:",
+  "item.create_ae_generator.copper_coil": "Kuparikela",
+  "item.create_ae_generator.stator": "Statoori"
+}

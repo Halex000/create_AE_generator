@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: Generator AE",
+  "block.create_ae_generator.kinetic_acceptor": "Akceptor Kinetyczny",
+  "create_ae_generator.configuration.title": "Ustawienia Create: Generator AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Ustawienia Akceptora Kinetycznego",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Ustawienia Akceptora Kinetycznego",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Statystyki generatora:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Produkcja energii:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Wpływ naprężeń kinetycznych:",
+  "item.create_ae_generator.copper_coil": "Miedziana Cewka",
+  "item.create_ae_generator.stator": "Stator"
+}

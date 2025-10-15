@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE-raflsými",
+  "block.create_ae_generator.kinetic_acceptor": "Hreyfiþegi",
+  "create_ae_generator.configuration.title": "Stillingar Create: AE-raflsými",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Stillingar hreyfiþega",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Stillingar hreyfiþega",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Tölfræði rafalsýnis:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Orkumyndun:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Áhrif hreyfiálags:",
+  "item.create_ae_generator.copper_coil": "Koparspóla",
+  "item.create_ae_generator.stator": "Stator"
+}

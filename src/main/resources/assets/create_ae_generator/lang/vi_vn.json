@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: Máy phát AE",
+  "block.create_ae_generator.kinetic_acceptor": "Bộ thu động năng",
+  "create_ae_generator.configuration.title": "Cài đặt Create: Máy phát AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Cài đặt Bộ thu động năng",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Cài đặt Bộ thu động năng",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Thống kê máy phát:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Sản lượng năng lượng:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Tác động căng thẳng động năng:",
+  "item.create_ae_generator.copper_coil": "Cuộn đồng",
+  "item.create_ae_generator.stator": "Stator"
+}

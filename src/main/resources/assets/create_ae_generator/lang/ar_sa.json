@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: المُولِّد AE",
+  "block.create_ae_generator.kinetic_acceptor": "مستقبل الحركة",
+  "create_ae_generator.configuration.title": "إعدادات Create: مولِّد AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "إعدادات مستقبل الحركة",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "إعدادات مستقبل الحركة",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "إحصاءات المولِّد:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "إنتاج الطاقة:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "تأثير الإجهاد الحركي:",
+  "item.create_ae_generator.copper_coil": "لفافة نحاسية",
+  "item.create_ae_generator.stator": "الستاتور"
+}

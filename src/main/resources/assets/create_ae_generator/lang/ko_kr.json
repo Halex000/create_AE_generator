@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE 발전기",
+  "block.create_ae_generator.kinetic_acceptor": "운동 에너지 수용기",
+  "create_ae_generator.configuration.title": "Create: AE 발전기 설정",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "운동 에너지 수용기 설정",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "운동 에너지 수용기 설정",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "발전기 통계:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "에너지 생산:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "운동 응력 영향:",
+  "item.create_ae_generator.copper_coil": "구리 코일",
+  "item.create_ae_generator.stator": "스테이터"
+}

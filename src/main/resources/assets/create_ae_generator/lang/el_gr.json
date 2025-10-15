@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: Γεννήτρια AE",
+  "block.create_ae_generator.kinetic_acceptor": "Κινητικός Αποδέκτης",
+  "create_ae_generator.configuration.title": "Ρυθμίσεις Create: Γεννήτρια AE",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Ρυθμίσεις Κινητικού Αποδέκτη",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Ρυθμίσεις Κινητικού Αποδέκτη",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Στατιστικά Γεννήτριας:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Παραγωγή Ενέργειας:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Επίδραση Κινητικής Καταπόνησης:",
+  "item.create_ae_generator.copper_coil": "Χάλκινος Πηνίο",
+  "item.create_ae_generator.stator": "Στάτορας"
+}

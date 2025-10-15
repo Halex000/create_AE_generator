@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create：AE 发电机",
+  "block.create_ae_generator.kinetic_acceptor": "动能接收器",
+  "create_ae_generator.configuration.title": "Create：AE 发电机配置",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "动能接收器配置",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "动能接收器配置",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "发电机 数据：",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "能量产出：",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "动能应力影响：",
+  "item.create_ae_generator.copper_coil": "铜线圈",
+  "item.create_ae_generator.stator": "定子"
+}

@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE जनरेटर",
+  "block.create_ae_generator.kinetic_acceptor": "गतिज ग्रहणकर्ता",
+  "create_ae_generator.configuration.title": "Create: AE जनरेटर सेटिंग्स",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "गतिज ग्रहणकर्ता सेटिंग्स",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "गतिज ग्रहणकर्ता सेटिंग्स",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "जनरेटर आँकड़े:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "ऊर्जा उत्पादन:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "गतिज तनाव प्रभाव:",
+  "item.create_ae_generator.copper_coil": "तांबे का कॉइल",
+  "item.create_ae_generator.stator": "स्टेटर"
+}

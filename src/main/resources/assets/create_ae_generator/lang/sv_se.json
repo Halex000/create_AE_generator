@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE-generatorn",
+  "block.create_ae_generator.kinetic_acceptor": "Kinetisk Mottagare",
+  "create_ae_generator.configuration.title": "Inställningar Create: AE-generator",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Inställningar för Kinetisk Mottagare",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Inställningar för Kinetisk Mottagare",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Generatorstatistik:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Energiproduktion:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Kinetisk belastnings påverkan:",
+  "item.create_ae_generator.copper_coil": "Kopparspole",
+  "item.create_ae_generator.stator": "Stator"
+}

@@ -1,0 +1,12 @@
+{
+  "item_group.create_ae_generator.tabs": "Create: AE-Generator",
+  "block.create_ae_generator.kinetic_acceptor": "Kinetischer Empfänger",
+  "create_ae_generator.configuration.title": "Create: AE-Generator Einstellungen",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml": "Kinetischer Empfänger Einstellungen",
+  "create_ae_generator.configuration.section.kinetic_acceptor.common.toml.title": "Kinetischer Empfänger Einstellungen",
+  "create_ae_generator.tooltip.kinetic_acceptor.generator_stats": "Generatorstatistiken:",
+  "create_ae_generator.tooltip.kinetic_acceptor.energy_production": "Energieerzeugung:",
+  "create_ae_generator.tooltip.kinetic_acceptor.kinetic_stress_impact": "Kinetische Belastung:",
+  "item.create_ae_generator.copper_coil": "Kupferspule",
+  "item.create_ae_generator.stator": "Stator"
+}
